@@ -19,7 +19,7 @@ export function Splashscreen() {
           ></input>
         </div>
 
-        <label htmlFor="exampleInputEmail1">Nombre Dueño</label>
+        <label htmlFor="exampleInputEmail1">Nombre Dueño Local</label>
         <input
           type="text"
           className="form-control"
